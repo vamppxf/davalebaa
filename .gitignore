@@ -1,0 +1,19 @@
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.cover
+
+# Environment settings
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Django migrations
+**/migrations/**
